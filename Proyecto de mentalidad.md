@@ -1,8 +1,8 @@
 ---
 
-**Post-mortem: Human Touch publicó con los colores equivocados**
-
-## **Contexto**
+<H1>Post-mortem: Human Touch publicó con los colores equivocados</h1>
+<p> </p>
+**Contexto**
 
 Estoy a cargo del diseño y la comunidad digital del proyecto **Human Touch**, un spa ubicado en Recoleta, Buenos Aires, para el cual desarrollé toda la identidad visual: paleta de colores, tipografías y sistema de aplicaciones de marca.
 
@@ -109,3 +109,4 @@ A partir de ahora, ese mismo principio lo aplico también hacia mí mismo: en ve
 5. Captura de la URL pública funcionando.  
 6. Checklist final.
 
+</p>
